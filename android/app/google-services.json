@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394243384732",
+    "project_id": "my-flutter-web-app-d31c2",
+    "storage_bucket": "my-flutter-web-app-d31c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394243384732:android:2ed66c7a259c1a0b219459",
+        "android_client_info": {
+          "package_name": "edu.amity.my_flutter_web_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXs5DnRVsvMTJefyMEYh65fmUWulj4Zc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+} 
