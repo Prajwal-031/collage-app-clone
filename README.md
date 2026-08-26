@@ -1,6 +1,6 @@
-# Amity University Bengaluru - Flutter Web App
+# Flutter-Based Amity University Bengaluru Student Portal
 
-A comprehensive Flutter web application for Amity University Bengaluru featuring a complete authentication system and dashboard interface.
+A Flutter-based student portal developed as an independent project, inspired by Amity University Bengaluru, featuring Firebase Authentication, Cloud Firestore, and responsive university dashboard functionality.
 
 ## Features
 
